@@ -1,0 +1,14 @@
+[
+  {
+    "id": "d1",
+    "department_id": "DEP001",
+    "department_name": "IT",
+    "location": "Chennai"
+  },
+  {
+    "id": "d2",
+    "department_id": "DEP002",
+    "department_name": "HR",
+    "location": "Bangalore"
+  }
+]

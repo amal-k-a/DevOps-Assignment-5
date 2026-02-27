@@ -1,0 +1,22 @@
+[
+  {
+    "id": "e1",
+    "employee_id": "EMP001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "Male",
+    "date_of_birth": "1995-05-10",
+    "department_id": "DEP001",
+    "is_active": true
+  },
+  {
+    "id": "e2",
+    "employee_id": "EMP002",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "gender": "Female",
+    "date_of_birth": "1998-08-15",
+    "department_id": "DEP002",
+    "is_active": true
+  }
+]
